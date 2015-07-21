@@ -1,0 +1,10 @@
+[
+	{
+		"action" : "discard",
+		"rule" : [ "John", "*", "Female", "*", "*"]
+	},
+	{
+		"action" : "discard",
+		"rule" : [ "Jane", "*", "Male", "*", "*" ]
+	}
+]
