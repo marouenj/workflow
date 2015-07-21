@@ -1,0 +1,5 @@
+.vagrant
+*/workspace/bin
+*/workspace/pkg
+__pycache__
+target
